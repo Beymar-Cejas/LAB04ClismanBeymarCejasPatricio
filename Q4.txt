@@ -1,0 +1,6 @@
+-git checkout main
+ git branch -d feature/QA
+
+-Organización ,colaboración, seguridad
+
+-feature/SEM-005
