@@ -1,0 +1,3 @@
+
+npm init crea un archivo package.json para configurar 
+y gestionar las dependencias de tu proyecto Node.js.

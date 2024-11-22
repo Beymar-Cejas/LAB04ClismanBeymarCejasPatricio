@@ -1,0 +1,3 @@
+-yarn add <paquete>
+-yarn remove <paquete>
+-yarn init
